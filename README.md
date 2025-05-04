@@ -8,6 +8,7 @@ Universidad Internacional de Valencia*
 
 Prof: Dr. Horacio Kuna
 Dictado: OCT24-25
+Estudiante: Verónica Puerto Belda
 
 ## Descripción del contenido
 
